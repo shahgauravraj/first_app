@@ -4,7 +4,7 @@ This is my first ever Flutter project for learning basics of mobile app developm
 
 ## What's this app?
 
-This is a very basic Quiz App build using flutter and dart having a very simple UI without many widgets. After you run this app, there are a bunch of questions displayed along with some related options to choose from and once you make a choice, other questions appear in series. Once you've answered all of them, based on your performance, a score is displayed immediately.
+This is a very basic Quiz App build using flutter and dart having a very simple UI without many widgets. After you run this app, there are a bunch of questions that are displayed, one after another, each one having four options to choose from and once you make a choice, next question appears. When you're done, based on your performance, a score is displayed immediately.
 
 ## Getting Started
 
