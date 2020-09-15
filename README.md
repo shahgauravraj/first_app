@@ -1,6 +1,6 @@
 # FIRST_APP
 
-![alt text](https://static.dribbble.com/users/3291210/screenshots/13964457/media/967626612c96b70f400f6674d02e33d8.jpg)
+![alt text](https://raw.githubusercontent.com/shahgauravraj/first_app/master/assets/images/finance_app.png)
 
 
 This is my first ever Flutter project for learning basics of mobile app development using flutter and Dart.
